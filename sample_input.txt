@@ -1,0 +1,15 @@
+Meeting notes - Project Kickoff
+
+Attendees and contacts:
+Rahul Sharma (rahul.sharma@example.com) will lead the backend work.
+Priya Patel can be reached at priya_patel@company.co.in for design questions.
+Please send the final report to support@codealpha.tech and cc Rahul.Sharma@example.com.
+
+Other contacts:
+- Amit Verma: amit.verma99@mail.org
+- HR desk: hr-team@my-company.com.
+- Old address (no longer used): john+news@oldmail.net
+
+Things that are NOT emails: user@, @handle, name@domain, 25 @ 10 pm, and www.codealpha.tech.
+
+Reach the sales team at sales@example.com, or write to services@codealpha.tech.
